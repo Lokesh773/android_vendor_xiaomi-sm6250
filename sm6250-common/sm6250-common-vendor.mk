@@ -2442,7 +2442,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm6250-common/proprietary/vendor/ueventd.rc:$(TARGET_COPY_OUT_VENDOR)/ueventd.rc
 
 PRODUCT_PACKAGES += \
-    libplatformconfig \
     vendor.qti.hardware.fm@1.0 \
     WfdService \
     CneApp \
